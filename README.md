@@ -1,4 +1,4 @@
 # my_first_repository
 
-First time messing around with git, hope it works
+Got all the way through 1 and 2, woot!
 
